@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BasiKanchana/Loginapp.git/static/css/main.9e08d2e8.css",
+    "main.js": "/BasiKanchana/Loginapp.git/static/js/main.2aece3df.js",
+    "static/js/453.ba2a062d.chunk.js": "/BasiKanchana/Loginapp.git/static/js/453.ba2a062d.chunk.js",
+    "index.html": "/BasiKanchana/Loginapp.git/index.html",
+    "main.9e08d2e8.css.map": "/BasiKanchana/Loginapp.git/static/css/main.9e08d2e8.css.map",
+    "main.2aece3df.js.map": "/BasiKanchana/Loginapp.git/static/js/main.2aece3df.js.map",
+    "453.ba2a062d.chunk.js.map": "/BasiKanchana/Loginapp.git/static/js/453.ba2a062d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e08d2e8.css",
+    "static/js/main.2aece3df.js"
+  ]
+}
